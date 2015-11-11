@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Amanda Sefton" label="Amanda Sefton" />
+      <node id="Baron Zemo" label="Baron Zemo" />
+      <node id="Jolen (comics)" label="Jolen (comics)" />
+      <node id="Silver Sable" label="Silver Sable" />
+      <node id="Hope Summers (comics)" label="Hope Summers (comics)" />
+      <node id="Firestar" label="Firestar" />
+      <node id="Razorback (comics)" label="Razorback (comics)" />
+      <node id="Cipher (newuniversal)" label="Cipher (newuniversal)" />
+      <node id="Night Thrasher (Dwayne Taylor)" label="Night Thrasher (Dwayne Taylor)" />
+      <node id="Stunt-Master (comics)" label="Stunt-Master (comics)" />
+      <node id="Magnus Lehnsherr" label="Magnus Lehnsherr" />
+      <node id="Forge (comics)" label="Forge (comics)" />
+      <node id="J2 (comics)" label="J2 (comics)" />
+      <node id="Ghoul (Ultraverse)" label="Ghoul (Ultraverse)" />
+      <node id="Husk (comics)" label="Husk (comics)" />
+      <node id="Spike (Marvel Comics)" label="Spike (Marvel Comics)" />
+      <node id="Human Torch" label="Human Torch" />
+      <node id="Hercules (Marvel Comics)" label="Hercules (Marvel Comics)" />
+      <node id="Shaman (comics)" label="Shaman (comics)" />
+      <node id="Bedlam (comics)" label="Bedlam (comics)" />
+      <node id="Old Lace (comics)" label="Old Lace (comics)" />
+      <node id="Joystick (comics)" label="Joystick (comics)" />
+      <node id="Graymalkin" label="Graymalkin" />
+      <node id="Mystique (comics)" label="Mystique (comics)" />
+      <node id="Manikin (comics)" label="Manikin (comics)" />
+      <node id="Box (comics)" label="Box (comics)" />
+      <node id="Hulkling" label="Hulkling" />
+      <node id="Tag (comics)" label="Tag (comics)" />
+      <node id="Hiroim" label="Hiroim" />
+      <node id="Spider-Man 2099" label="Spider-Man 2099" />
+      <node id="Xi'an (comics)" label="Xi'an (comics)" />
+      <node id="Captain Ultra" label="Captain Ultra" />
+      <node id="Geldoff" label="Geldoff" />
+      <node id="Quentin Quire" label="Quentin Quire" />
+      <node id="Siryn" label="Siryn" />
+      <node id="Destroyer (Keen Marlow)" label="Destroyer (Keen Marlow)" />
+      <node id="Phaser (comics)" label="Phaser (comics)" />
+      <node id="Match (Marvel Comics)" label="Match (Marvel Comics)" />
+      <node id="Colossus (comics)" label="Colossus (comics)" />
+      <node id="Kitty Pryde" label="Kitty Pryde" />
+      <node id="Jessica Jones" label="Jessica Jones" />
+      <node id="White Tiger (Kasper Cole)" label="White Tiger (Kasper Cole)" />
+      <node id="Sharon Friedlander" label="Sharon Friedlander" />
+      <node id="Magician (comics)" label="Magician (comics)" />
+      <node id="Machine Man" label="Machine Man" />
+      <node id="Thor Girl" label="Thor Girl" />
+      <node id="Victor Mancha" label="Victor Mancha" />
+      <node id="Valkyrie (Marvel Comics)" label="Valkyrie (Marvel Comics)" />
+      <node id="Dazzler" label="Dazzler" />
+      <node id="Nova (Sam Alexander)" label="Nova (Sam Alexander)" />
+      <node id="Outlaw (comics)" label="Outlaw (comics)" />
+      <node id="Chamber (comics)" label="Chamber (comics)" />
+      <node id="Reptil" label="Reptil" />
+      <node id="Sasquatch (comics)" label="Sasquatch (comics)" />
+      <node id="Solomon O'Sullivan" label="Solomon O'Sullivan" />
+      <node id="Googam" label="Googam" />
+      <node id="Bird-Brain" label="Bird-Brain" />
+      <node id="Angel (Thomas Halloway)" label="Angel (Thomas Halloway)" />
+      <node id="Starhawk (comics)" label="Starhawk (comics)" />
+      <node id="Madison Jeffries" label="Madison Jeffries" />
+      <node id="Shanna the She-Devil" label="Shanna the She-Devil" />
+      <node id="Karma (comics)" label="Karma (comics)" />
+      <node id="Abyss (comics)" label="Abyss (comics)" />
+      <node id="Aminedi" label="Aminedi" />
+      <node id="Ghost Rider (comics)" label="Ghost Rider (comics)" />
+      <node id="Speed (comics)" label="Speed (comics)" />
+      <node id="Eric O'Grady" label="Eric O'Grady" />
+      <node id="Phone Ranger" label="Phone Ranger" />
+      <node id="Elsie-Dee" label="Elsie-Dee" />
+      <node id="Ultimate Wolverine" label="Ultimate Wolverine" />
+      <node id="Golden Archer" label="Golden Archer" />
+      <node id="Motormouth (comics)" label="Motormouth (comics)" />
+      <node id="Nightcrawler (comics)" label="Nightcrawler (comics)" />
+      <node id="Hummingbird (comics)" label="Hummingbird (comics)" />
+      <node id="Snapdragon (Morituri)" label="Snapdragon (Morituri)" />
+      <node id="Sentry (Curtis Elkins)" label="Sentry (Curtis Elkins)" />
+      <node id="Indra (comics)" label="Indra (comics)" />
+      <node id="Miss America (Marvel Comics)" label="Miss America (Marvel Comics)" />
+      <node id="Moon Knight" label="Moon Knight" />
+      <node id="Hulk 2099" label="Hulk 2099" />
+      <node id="Andromeda (Marvel Comics)" label="Andromeda (Marvel Comics)" />
+      <node id="Marrina Smallwood" label="Marrina Smallwood" />
+      <node id="Mark Hazzard: Merc" label="Mark Hazzard: Merc" />
+      <node id="Gentle (comics)" label="Gentle (comics)" />
+      <node id="Tangerine (comics)" label="Tangerine (comics)" />
+      <node id="Gravity (comics)" label="Gravity (comics)" />
+      <node id="Molly Hayes" label="Molly Hayes" />
+      <node id="Living Lightning" label="Living Lightning" />
+      <node id="Magneto (comics)" label="Magneto (comics)" />
+      <node id="Thundra" label="Thundra" />
+      <node id="Freedom Ring" label="Freedom Ring" />
+      <node id="Wasp (comics)" label="Wasp (comics)" />
+      <node id="Union Jack (Joseph Chapman)" label="Union Jack (Joseph Chapman)" />
+      <node id="Hellion" label="Hellion" />
+      <node id="Northstar" label="Northstar" />
+      <node id="Gabriel the Devil Hunter" label="Gabriel the Devil Hunter" />
+      <node id="Amphibian (comics)" label="Amphibian (comics)" />
+      <node id="Kylun" label="Kylun" />
+      <node id="Whizzer (Robert Frank)" label="Whizzer (Robert Frank)" />
+      <node id="Crimson Dynamo" label="Crimson Dynamo" />
+      <node id="Nomad (comics)" label="Nomad (comics)" />
+      <node id="Penance (X-Men)" label="Penance (X-Men)" />
+      <node id="Midnight Sun (Marvel Comics)" label="Midnight Sun (Marvel Comics)" />
+      <node id="Cyclops (comics)" label="Cyclops (comics)" />
+      <node id="Jolt (comics)" label="Jolt (comics)" />
+      <node id="Maggott" label="Maggott" />
+      <node id="Captain Marvel (Khn'nr)" label="Captain Marvel (Khn'nr)" />
+      <node id="Stepford Cuckoos" label="Stepford Cuckoos" />
+      <node id="Cerebra" label="Cerebra" />
+      <node id="Hawkeye (Kate Bishop)" label="Hawkeye (Kate Bishop)" />
+      <node id="Scaredycat" label="Scaredycat" />
+      <node id="Living Brain" label="Living Brain" />
+      <node id="Flash Thompson" label="Flash Thompson" />
+      <node id="Jackpot (comics)" label="Jackpot (comics)" />
+      <node id="War Machine" label="War Machine" />
+      <node id="Michael Van Patrick" label="Michael Van Patrick" />
+      <node id="Ghost Rider (Danny Ketch)" label="Ghost Rider (Danny Ketch)" />
+      <node id="Anole (comics)" label="Anole (comics)" />
+      <node id="Marvel Boy" label="Marvel Boy" />
+      <node id="Juston Seyfert" label="Juston Seyfert" />
+      <node id="Backhand (comics)" label="Backhand (comics)" />
+      <node id="Shear (comics)" label="Shear (comics)" />
+      <node id="Hogun" label="Hogun" />
+      <node id="Cardinal (comics)" label="Cardinal (comics)" />
+      <node id="Korg (comics)" label="Korg (comics)" />
+      <node id="Felicity Hardy" label="Felicity Hardy" />
+      <node id="Longshot" label="Longshot" />
+      <node id="Lila Cheney" label="Lila Cheney" />
+      <node id="Nick Fury" label="Nick Fury" />
+      <node id="Joseph (comics)" label="Joseph (comics)" />
+      <node id="Angela (comics)" label="Angela (comics)" />
+      <node id="Aragorn (comics)" label="Aragorn (comics)" />
+      <node id="Moonglow (comics)" label="Moonglow (comics)" />
+      <node id="Kismet (Marvel Comics)" label="Kismet (Marvel Comics)" />
+      <node id="Sabretooth (comics)" label="Sabretooth (comics)" />
+      <node id="Haywire (comics)" label="Haywire (comics)" />
+      <node id="Athena (Marvel Comics)" label="Athena (Marvel Comics)" />
+      <node id="Cipher (comics)" label="Cipher (comics)" />
+      <node id="Radian (Morituri)" label="Radian (Morituri)" />
+      <node id="Dirk Anger" label="Dirk Anger" />
+      <node id="Anya Corazon" label="Anya Corazon" />
+      <node id="Silhouette (comics)" label="Silhouette (comics)" />
+      <node id="Blue Marvel (Marvel Comics)" label="Blue Marvel (Marvel Comics)" />
+      <node id="Quill (comics)" label="Quill (comics)" />
+      <node id="Abner Jenkins" label="Abner Jenkins" />
+      <node id="Barnell Bohusk" label="Barnell Bohusk" />
+      <node id="Fixer (comics)" label="Fixer (comics)" />
+      <node id="Sharon Ventura" label="Sharon Ventura" />
+      <node id="Danielle Moonstar" label="Danielle Moonstar" />
+      <node id="Banshee (comics)" label="Banshee (comics)" />
+      <node id="Gremlin (comics)" label="Gremlin (comics)" />
+      <node id="Manta (comics)" label="Manta (comics)" />
+      <node id="Tarantula (Marvel Comics)" label="Tarantula (Marvel Comics)" />
+      <node id="Ant-Man (Scott Lang)" label="Ant-Man (Scott Lang)" />
+      <node id="Revolutionary (comics)" label="Revolutionary (comics)" />
+      <node id="Rockslide (comics)" label="Rockslide (comics)" />
+      <node id="Mantis (Marvel Comics)" label="Mantis (Marvel Comics)" />
+      <node id="Juggernaut (comics)" label="Juggernaut (comics)" />
+      <node id="Circuit Breaker (Transformers)" label="Circuit Breaker (Transformers)" />
+      <node id="John Carik" label="John Carik" />
+      <node id="Mainframe (comics)" label="Mainframe (comics)" />
+      <node id="Vertigo (Marvel Comics)" label="Vertigo (Marvel Comics)" />
+      <node id="Moondragon" label="Moondragon" />
+      <node id="Spider-Woman (Mattie Franklin)" label="Spider-Woman (Mattie Franklin)" />
+      <node id="Gorilla Girl" label="Gorilla Girl" />
+      <node id="Yellowjacket (Marvel Comics)" label="Yellowjacket (Marvel Comics)" />
+      <node id="Century (comics)" label="Century (comics)" />
+      <node id="Tom Thumb (comics)" label="Tom Thumb (comics)" />
+      <node id="Albert (comics)" label="Albert (comics)" />
+      <node id="Sersi" label="Sersi" />
+      <node id="Spider-Man (Miles Morales)" label="Spider-Man (Miles Morales)" />
+      <node id="Thing (comics)" label="Thing (comics)" />
+      <node id="Tabitha Smith" label="Tabitha Smith" />
+      <node id="Hiro Takachiho" label="Hiro Takachiho" />
+      <node id="Shamrock (comics)" label="Shamrock (comics)" />
+      <node id="Jack Frost (Marvel Comics)" label="Jack Frost (Marvel Comics)" />
+      <node id="Karnak (comics)" label="Karnak (comics)" />
+      <node id="M (comics)" label="M (comics)" />
+      <node id="Josiah X" label="Josiah X" />
+      <node id="El Guapo (comics)" label="El Guapo (comics)" />
+      <node id="Transonic (comics)" label="Transonic (comics)" />
+      <node id="Iceman (comics)" label="Iceman (comics)" />
+      <node id="Deathcry" label="Deathcry" />
+      <node id="Julie Power" label="Julie Power" />
+      <node id="Pixie (X-Men)" label="Pixie (X-Men)" />
+      <node id="Erik Josten" label="Erik Josten" />
+      <node id="Prime (comics)" label="Prime (comics)" />
+      <node id="Redneck (comics)" label="Redneck (comics)" />
+      <node id="Fantomex" label="Fantomex" />
+      <node id="Ben Reilly" label="Ben Reilly" />
+      <node id="Ladyhawk (comics)" label="Ladyhawk (comics)" />
+      <node id="Andreas von Strucker" label="Andreas von Strucker" />
+      <node id="Thunderstrike (Kevin Masterson)" label="Thunderstrike (Kevin Masterson)" />
+      <node id="Dallas Riordan" label="Dallas Riordan" />
+      <node id="Gabriel (New-Gen)" label="Gabriel (New-Gen)" />
+      <node id="Adam Warlock" label="Adam Warlock" />
+      <node id="Nuklo" label="Nuklo" />
+      <node id="Fin Fang Foom" label="Fin Fang Foom" />
+      <node id="Scarlet Witch" label="Scarlet Witch" />
+      <node id="Toxyn" label="Toxyn" />
+      <node id="Radius (comics)" label="Radius (comics)" />
+      <node id="Caiera" label="Caiera" />
+      <node id="Balder (comics)" label="Balder (comics)" />
+      <node id="Delroy Garrett" label="Delroy Garrett" />
+      <node id="Solarman" label="Solarman" />
+      <node id="Black Widow (Marvel Comics)" label="Black Widow (Marvel Comics)" />
+      <node id="Master Mind Excello" label="Master Mind Excello" />
+      <node id="Corsair (comics)" label="Corsair (comics)" />
+      <node id="Skaar" label="Skaar" />
+      <node id="Pipeline (comics)" label="Pipeline (comics)" />
+      <node id="Paladin (comics)" label="Paladin (comics)" />
+      <node id="Sunfire (comics)" label="Sunfire (comics)" />
+      <node id="Shatterstar" label="Shatterstar" />
+      <node id="Hauptmann Deutschland" label="Hauptmann Deutschland" />
+      <node id="White Tiger (Hector Ayala)" label="White Tiger (Hector Ayala)" />
+      <node id="Bucky" label="Bucky" />
+      <node id="Machine Teen" label="Machine Teen" />
+      <node id="Hussar (comics)" label="Hussar (comics)" />
+      <node id="Shriker" label="Shriker" />
+      <node id="Blue Diamond (comics)" label="Blue Diamond (comics)" />
+      <node id="Nemesis (Alpha Flight)" label="Nemesis (Alpha Flight)" />
+      <node id="Killraven" label="Killraven" />
+      <node id="Wundarr the Aquarian" label="Wundarr the Aquarian" />
+      <node id="Skin (Marvel Comics)" label="Skin (Marvel Comics)" />
+      <node id="White Tiger (Ava Ayala)" label="White Tiger (Ava Ayala)" />
+      <node id="Jeffrey Mace" label="Jeffrey Mace" />
+      <node id="Hobgoblin (Imperial Guard)" label="Hobgoblin (Imperial Guard)" />
+      <node id="Armor (comics)" label="Armor (comics)" />
+      <node id="Wallflower (comics)" label="Wallflower (comics)" />
+      <node id="Nightwatch (comics)" label="Nightwatch (comics)" />
+      <node id="Talisman (Alpha Flight)" label="Talisman (Alpha Flight)" />
+      <node id="Frankenstein's Monster (Marvel Comics)" label="Frankenstein's Monster (Marvel Comics)" />
+      <node id="Gambit (comics)" label="Gambit (comics)" />
+      <node id="Gaia (Marvel Comics)" label="Gaia (Marvel Comics)" />
+      <node id="Shang-Chi" label="Shang-Chi" />
+      <node id="Mister Fantastic" label="Mister Fantastic" />
+      <node id="Yellowjacket (Rita DeMara)" label="Yellowjacket (Rita DeMara)" />
+      <node id="Darkdevil" label="Darkdevil" />
+      <node id="Doorman (comics)" label="Doorman (comics)" />
+      <node id="Justice (New Universe)" label="Justice (New Universe)" />
+      <node id="Doctor Spectrum" label="Doctor Spectrum" />
+      <node id="Akasha (comics)" label="Akasha (comics)" />
+      <node id="Grand Director" label="Grand Director" />
+      <node id="Master Izo" label="Master Izo" />
+      <node id="Arkon" label="Arkon" />
+      <node id="Cable (comics)" label="Cable (comics)" />
+      <node id="Makkari (comics)" label="Makkari (comics)" />
+      <node id="Oracle (Marvel Comics)" label="Oracle (Marvel Comics)" />
+      <node id="Flashfire (comics)" label="Flashfire (comics)" />
+      <node id="White Tiger (Heroes for Hire)" label="White Tiger (Heroes for Hire)" />
+      <node id="Blackthorn (comics)" label="Blackthorn (comics)" />
+      <node id="Angel Dust (comics)" label="Angel Dust (comics)" />
+      <node id="Synch (comics)" label="Synch (comics)" />
+      <node id="Devil-Slayer" label="Devil-Slayer" />
+      <node id="Feron" label="Feron" />
+      <node id="Alpha the Ultimate Mutant" label="Alpha the Ultimate Mutant" />
+      <node id="Kiwi Black" label="Kiwi Black" />
+      <node id="Access (comics)" label="Access (comics)" />
+      <node id="Rusty Collins" label="Rusty Collins" />
+      <node id="Daredevil (Marvel Comics)" label="Daredevil (Marvel Comics)" />
+      <node id="Aurora (comics)" label="Aurora (comics)" />
+      <node id="Minotaur (New-Gen)" label="Minotaur (New-Gen)" />
+      <node id="Shooting Star (comics)" label="Shooting Star (comics)" />
+      <node id="Americop" label="Americop" />
+      <node id="Jade Dragon" label="Jade Dragon" />
+      <node id="Sunspot (comics)" label="Sunspot (comics)" />
+      <node id="Henrietta Hunter" label="Henrietta Hunter" />
+      <node id="Stained Glass Scarlet" label="Stained Glass Scarlet" />
+      <node id="Feral (comics)" label="Feral (comics)" />
+      <node id="Toro (comics)" label="Toro (comics)" />
+      <node id="Cardiac (comics)" label="Cardiac (comics)" />
+      <node id="Moonstone (comics)" label="Moonstone (comics)" />
+      <node id="Futurist (comics)" label="Futurist (comics)" />
+      <node id="Tommy (comics)" label="Tommy (comics)" />
+      <node id="Crimson Curse" label="Crimson Curse" />
+      <node id="Comet Man" label="Comet Man" />
+      <node id="Swordsman (comics)" label="Swordsman (comics)" />
+      <node id="She-Hulk" label="She-Hulk" />
+      <node id="Speed Demon (comics)" label="Speed Demon (comics)" />
+      <node id="Falcon (comics)" label="Falcon (comics)" />
+      <node id="Quicksilver (comics)" label="Quicksilver (comics)" />
+      <node id="Butterball (Emery Schaub)" label="Butterball (Emery Schaub)" />
+      <node id="Erg (comics)" label="Erg (comics)" />
+      <node id="Ms. Marvel (Kamala Khan)" label="Ms. Marvel (Kamala Khan)" />
+      <node id="Nico Minoru" label="Nico Minoru" />
+      <node id="Satana (Marvel Comics)" label="Satana (Marvel Comics)" />
+      <node id="Red Wolf (comics)" label="Red Wolf (comics)" />
+      <node id="Lady Mastermind" label="Lady Mastermind" />
+      <node id="Terror Inc." label="Terror Inc." />
+      <node id="Challenger (comics)" label="Challenger (comics)" />
+      <node id="Elektro (comics)" label="Elektro (comics)" />
+      <node id="Helix (Marvel Comics)" label="Helix (Marvel Comics)" />
+      <node id="Nate Grey" label="Nate Grey" />
+      <node id="Aegis (comics)" label="Aegis (comics)" />
+      <node id="Geiger (comics)" label="Geiger (comics)" />
+      <node id="Skull the Slayer" label="Skull the Slayer" />
+      <node id="Scatterbrain (Morituri)" label="Scatterbrain (Morituri)" />
+      <node id="Thor (Marvel Comics)" label="Thor (Marvel Comics)" />
+      <node id="N'Kantu, the Living Mummy" label="N'Kantu, the Living Mummy" />
+      <node id="Hannibal King" label="Hannibal King" />
+      <node id="Copycat (Marvel Comics)" label="Copycat (Marvel Comics)" />
+      <node id="Kaine" label="Kaine" />
+      <node id="Cannonball (comics)" label="Cannonball (comics)" />
+      <node id="Cloud 9 (comics)" label="Cloud 9 (comics)" />
+      <node id="Inertia (Marvel Comics)" label="Inertia (Marvel Comics)" />
+      <node id="Hulk (comics)" label="Hulk (comics)" />
+      <node id="Lifeguard (comics)" label="Lifeguard (comics)" />
+      <node id="Skullfire" label="Skullfire" />
+      <node id="Ghost Rider (Johnny Blaze)" label="Ghost Rider (Johnny Blaze)" />
+      <node id="Blackwulf" label="Blackwulf" />
+      <node id="Havok (comics)" label="Havok (comics)" />
+      <node id="Dakota North (comics)" label="Dakota North (comics)" />
+      <node id="Kevin Sydney" label="Kevin Sydney" />
+      <node id="Neutron (Marvel Comics)" label="Neutron (Marvel Comics)" />
+      <node id="Forgotten One (comics)" label="Forgotten One (comics)" />
+      <node id="Katie Power" label="Katie Power" />
+      <node id="Jubilee (comics)" label="Jubilee (comics)" />
+      <node id="Gertrude Yorkes" label="Gertrude Yorkes" />
+      <node id="Prowler (comics)" label="Prowler (comics)" />
+      <node id="Psylocke" label="Psylocke" />
+      <node id="Guardian (Marvel Comics)" label="Guardian (Marvel Comics)" />
+      <node id="Black Bolt" label="Black Bolt" />
+      <node id="G. W. Bridge" label="G. W. Bridge" />
+      <node id="Roboduck" label="Roboduck" />
+      <node id="Vyking" label="Vyking" />
+      <node id="Honey Lemon" label="Honey Lemon" />
+      <node id="Harry Osborn" label="Harry Osborn" />
+      <node id="Battlestar (comics)" label="Battlestar (comics)" />
+      <node id="Fandral" label="Fandral" />
+      <node id="Thunderstrike (Eric Masterson)" label="Thunderstrike (Eric Masterson)" />
+      <node id="John Jameson (comics)" label="John Jameson (comics)" />
+      <node id="Smuggler (comics)" label="Smuggler (comics)" />
+      <node id="Bloke (comics)" label="Bloke (comics)" />
+      <node id="Blonde Phantom" label="Blonde Phantom" />
+      <node id="Atalanta (Marvel Comics)" label="Atalanta (Marvel Comics)" />
+      <node id="Holocaust (comics)" label="Holocaust (comics)" />
+      <node id="Warlock (New Mutants)" label="Warlock (New Mutants)" />
+      <node id="Angel Salvadore" label="Angel Salvadore" />
+      <node id="Ultimate Iron Man (character)" label="Ultimate Iron Man (character)" />
+      <node id="Sage (comics)" label="Sage (comics)" />
+      <node id="Goliath (Tom Foster)" label="Goliath (Tom Foster)" />
+      <node id="Shard (comics)" label="Shard (comics)" />
+      <node id="Rocket Raccoon" label="Rocket Raccoon" />
+      <node id="Mister Sensitive" label="Mister Sensitive" />
+      <node id="Stellaris" label="Stellaris" />
+      <node id="Omega the Unknown" label="Omega the Unknown" />
+      <node id="Hybrid (Scott Washington)" label="Hybrid (Scott Washington)" />
+      <node id="Firebird (Marvel Comics)" label="Firebird (Marvel Comics)" />
+      <node id="Toxin (comics)" label="Toxin (comics)" />
+      <node id="Hyperion (comics)" label="Hyperion (comics)" />
+      <node id="Iron Fist (comics)" label="Iron Fist (comics)" />
+      <node id="Poison (comics)" label="Poison (comics)" />
+      <node id="Hepzibah (comics)" label="Hepzibah (comics)" />
+      <node id="Starfox (comics)" label="Starfox (comics)" />
+      <node id="Hector (Marvel Comics)" label="Hector (Marvel Comics)" />
+      <node id="Detroit Steel" label="Detroit Steel" />
+      <node id="Marvel Boy (Robert Grayson)" label="Marvel Boy (Robert Grayson)" />
+      <node id="Demolition Man (comics)" label="Demolition Man (comics)" />
+      <node id="Blindfold (comics)" label="Blindfold (comics)" />
+      <node id="Solo (Marvel Comics)" label="Solo (Marvel Comics)" />
+      <node id="Deadpool" label="Deadpool" />
+      <node id="Batwing (Marvel Comics)" label="Batwing (Marvel Comics)" />
+      <node id="Portal (comics)" label="Portal (comics)" />
+      <node id="GoGo Tomago" label="GoGo Tomago" />
+      <node id="Wonder Man" label="Wonder Man" />
+      <node id="Nova (Richard Rider)" label="Nova (Richard Rider)" />
+      <node id="Iron Man" label="Iron Man" />
+      <node id="Ezekiel (comics)" label="Ezekiel (comics)" />
+      <node id="U.S. Agent" label="U.S. Agent" />
+      <node id="Pulse (Augustus)" label="Pulse (Augustus)" />
+      <node id="Air-Walker" label="Air-Walker" />
+      <node id="Sif (comics)" label="Sif (comics)" />
+      <node id="Kenji Uedo" label="Kenji Uedo" />
+      <node id="Ink (comics)" label="Ink (comics)" />
+      <node id="Ghost (Marvel Comics)" label="Ghost (Marvel Comics)" />
+      <node id="Oya (comics)" label="Oya (comics)" />
+      <node id="Darwin (comics)" label="Darwin (comics)" />
+      <node id="Fixx" label="Fixx" />
+      <node id="Thunderbolt Ross" label="Thunderbolt Ross" />
+      <node id="Ricochet (comics)" label="Ricochet (comics)" />
+      <node id="Trance (comics)" label="Trance (comics)" />
+      <node id="Ulysses Bloodstone" label="Ulysses Bloodstone" />
+      <node id="Professor X" label="Professor X" />
+      <node id="Annex (comics)" label="Annex (comics)" />
+      <node id="Hank Pym" label="Hank Pym" />
+      <node id="Xorn" label="Xorn" />
+      <node id="Blade (comics)" label="Blade (comics)" />
+      <node id="Venom (comics)" label="Venom (comics)" />
+      <node id="Black Marvel" label="Black Marvel" />
+      <node id="Squirrel Girl" label="Squirrel Girl" />
+      <node id="Warpath (comics)" label="Warpath (comics)" />
+      <node id="Collective Man" label="Collective Man" />
+      <node id="Charlotte Jones (comics)" label="Charlotte Jones (comics)" />
+      <node id="Junkpile" label="Junkpile" />
+      <node id="Namor" label="Namor" />
+      <node id="Gazelle (New-Gen)" label="Gazelle (New-Gen)" />
+      <node id="Sabra (comics)" label="Sabra (comics)" />
+      <node id="Forbush Man" label="Forbush Man" />
+      <node id="Hawkeye (comics)" label="Hawkeye (comics)" />
+      <node id="Diamond Lil (comics)" label="Diamond Lil (comics)" />
+      <node id="Wildstreak" label="Wildstreak" />
+      <node id="Debrii" label="Debrii" />
+      <node id="Thunderclap (comics)" label="Thunderclap (comics)" />
+      <node id="Windshear (comics)" label="Windshear (comics)" />
+      <node id="Hindsight (comics)" label="Hindsight (comics)" />
+      <node id="Vivisector" label="Vivisector" />
+      <node id="Roma (comics)" label="Roma (comics)" />
+      <node id="Agent X (Marvel Comics)" label="Agent X (Marvel Comics)" />
+      <node id="Starr the Slayer" label="Starr the Slayer" />
+      <node id="Volcana (Marvel Comics)" label="Volcana (Marvel Comics)" />
+      <node id="Genis-Vell" label="Genis-Vell" />
+      <node id="Skids (comics)" label="Skids (comics)" />
+      <node id="Bill Foster (comics)" label="Bill Foster (comics)" />
+      <node id="Die-Cut (comics)" label="Die-Cut (comics)" />
+      <node id="Prodigy (Ritchie Gilmore)" label="Prodigy (Ritchie Gilmore)" />
+      <node id="Captain Midlands" label="Captain Midlands" />
+      <node id="Spider-Man" label="Spider-Man" />
+      <node id="Black Knight (Sir Percy)" label="Black Knight (Sir Percy)" />
+      <node id="Apex (comics)" label="Apex (comics)" />
+      <node id="Brother Voodoo" label="Brother Voodoo" />
+      <node id="Misty Knight" label="Misty Knight" />
+      <node id="Gorgon (Inhuman)" label="Gorgon (Inhuman)" />
+      <node id="Armory (comics)" label="Armory (comics)" />
+      <node id="Fang (comics)" label="Fang (comics)" />
+      <node id="Black Crow (comics)" label="Black Crow (comics)" />
+      <node id="Shola Inkosi" label="Shola Inkosi" />
+      <node id="Lacuna (comics)" label="Lacuna (comics)" />
+      <node id="Wild Child (comics)" label="Wild Child (comics)" />
+      <node id="Blue Eagle (comics)" label="Blue Eagle (comics)" />
+      <node id="It! The Living Colossus" label="It! The Living Colossus" />
+      <node id="Phoenix Force (comics)" label="Phoenix Force (comics)" />
+      <node id="Luke Cage" label="Luke Cage" />
+      <node id="Wither (comics)" label="Wither (comics)" />
+      <node id="Captain Universe" label="Captain Universe" />
+      <node id="Jamie Madrox" label="Jamie Madrox" />
+      <node id="Karima Shapandar" label="Karima Shapandar" />
+      <node id="Werewolf by Night" label="Werewolf by Night" />
+      <node id="Petra (comics)" label="Petra (comics)" />
+      <node id="Union Jack (comics)" label="Union Jack (comics)" />
+      <node id="Tattoo (comics)" label="Tattoo (comics)" />
+      <node id="Xavin" label="Xavin" />
+      <node id="Big Bertha (comics)" label="Big Bertha (comics)" />
+      <node id="Silver Samurai" label="Silver Samurai" />
+      <node id="Jarella" label="Jarella" />
+      <node id="Alex Power" label="Alex Power" />
+      <node id="Vision (Marvel Comics)" label="Vision (Marvel Comics)" />
+      <node id="Lyja" label="Lyja" />
+      <node id="Yondu" label="Yondu" />
+      <node id="Adept (comics)" label="Adept (comics)" />
+      <node id="Will o' the Wisp (comics)" label="Will o' the Wisp (comics)" />
+      <node id="She-Hulk (Lyra)" label="She-Hulk (Lyra)" />
+      <node id="Empath (comics)" label="Empath (comics)" />
+      <node id="Baymax" label="Baymax" />
+      <node id="Quasar (Wendell Vaughn)" label="Quasar (Wendell Vaughn)" />
+      <node id="Mettle (comics)" label="Mettle (comics)" />
+      <node id="Steel Spider" label="Steel Spider" />
+      <node id="Arcanna" label="Arcanna" />
+      <node id="Cloak and Dagger (comics)" label="Cloak and Dagger (comics)" />
+      <node id="Widget (Marvel Comics)" label="Widget (Marvel Comics)" />
+      <node id="Starbolt" label="Starbolt" />
+      <node id="Rogue (comics)" label="Rogue (comics)" />
+      <node id="Dead Girl" label="Dead Girl" />
+      <node id="Darkstar (comics)" label="Darkstar (comics)" />
+      <node id="Patsy Walker" label="Patsy Walker" />
+      <node id="Human Torch (android)" label="Human Torch (android)" />
+      <node id="Deathlok" label="Deathlok" />
+      <node id="Deadalus (comics)" label="Deadalus (comics)" />
+      <node id="Ajak" label="Ajak" />
+      <node id="Hazmat (comics)" label="Hazmat (comics)" />
+      <node id="Karolina Dean" label="Karolina Dean" />
+      <node id="Chase Stein" label="Chase Stein" />
+      <node id="Frog-Man" label="Frog-Man" />
+      <node id="Bishop (comics)" label="Bishop (comics)" />
+      <node id="Two-Gun Kid" label="Two-Gun Kid" />
+      <node id="Doop (comics)" label="Doop (comics)" />
+      <node id="Phobos (Marvel Comics)" label="Phobos (Marvel Comics)" />
+      <node id="Punisher 2099" label="Punisher 2099" />
+      <node id="Human Top (David Mitchell)" label="Human Top (David Mitchell)" />
+      <node id="Goldballs" label="Goldballs" />
+      <node id="Wicked (comics)" label="Wicked (comics)" />
+      <node id="Mondo (comics)" label="Mondo (comics)" />
+      <node id="Black Cat (comics)" label="Black Cat (comics)" />
+      <node id="Emma Frost" label="Emma Frost" />
+      <node id="Thornn" label="Thornn" />
+      <node id="Janice Lincoln" label="Janice Lincoln" />
+      <node id="Turbo (comics)" label="Turbo (comics)" />
+      <node id="Silver Surfer" label="Silver Surfer" />
+      <node id="She-Venom" label="She-Venom" />
+      <node id="Ares (Marvel Comics)" label="Ares (Marvel Comics)" />
+      <node id="Doctor Strange" label="Doctor Strange" />
+      <node id="Klara Prast" label="Klara Prast" />
+      <node id="Risque (comics)" label="Risque (comics)" />
+      <node id="Finesse (comics)" label="Finesse (comics)" />
+      <node id="Alpha (Marvel Comics)" label="Alpha (Marvel Comics)" />
+      <node id="Thin Man (comics)" label="Thin Man (comics)" />
+      <node id="Bengal (comics)" label="Bengal (comics)" />
+      <node id="Tom Corsi" label="Tom Corsi" />
+      <node id="Garrison Kane" label="Garrison Kane" />
+      <node id="Fredzilla" label="Fredzilla" />
+      <node id="Black Knight (Dane Whitman)" label="Black Knight (Dane Whitman)" />
+      <node id="Prodigy (David Alleyne)" label="Prodigy (David Alleyne)" />
+      <node id="Savage Steel" label="Savage Steel" />
+      <node id="Polaris (comics)" label="Polaris (comics)" />
+      <node id="Texas Twister" label="Texas Twister" />
+      <node id="Martinex" label="Martinex" />
+      <node id="Colleen Wing" label="Colleen Wing" />
+      <node id="Devil Dinosaur" label="Devil Dinosaur" />
+      <node id="Flex (comics)" label="Flex (comics)" />
+      <node id="Slapstick (comics)" label="Slapstick (comics)" />
+      <node id="Joanna Cargill" label="Joanna Cargill" />
+      <node id="Kate Waynesboro" label="Kate Waynesboro" />
+      <node id="Black Panther (comics)" label="Black Panther (comics)" />
+      <node id="Silencer (comics)" label="Silencer (comics)" />
+      <node id="Nightside (comics)" label="Nightside (comics)" />
+      <node id="Sepulchre (comics)" label="Sepulchre (comics)" />
+      <node id="Surge (comics)" label="Surge (comics)" />
+      <node id="Sentry (Robert Reynolds)" label="Sentry (Robert Reynolds)" />
+      <node id="Spider-Girl" label="Spider-Girl" />
+      <node id="Tucker Ford" label="Tucker Ford" />
+      <node id="Sleepwalker (comics)" label="Sleepwalker (comics)" />
+      <node id="Captain Britain" label="Captain Britain" />
+      <node id="Lilandra Neramani" label="Lilandra Neramani" />
+      <node id="Storm (Marvel Comics)" label="Storm (Marvel Comics)" />
+      <node id="Scorpion (Carmilla Black)" label="Scorpion (Carmilla Black)" />
+      <node id="Radioactive Man (comics)" label="Radioactive Man (comics)" />
+      <node id="Eden Fesi" label="Eden Fesi" />
+      <node id="Ikaris" label="Ikaris" />
+      <node id="Isaiah Bradley" label="Isaiah Bradley" />
+      <node id="Siege (John Kelly)" label="Siege (John Kelly)" />
+      <node id="Doctor Nemesis" label="Doctor Nemesis" />
+      <node id="Kid Colt" label="Kid Colt" />
+      <node id="Mentor (Imperial Guard)" label="Mentor (Imperial Guard)" />
+      <node id="Wiccan (comics)" label="Wiccan (comics)" />
+      <node id="Komodo (comics)" label="Komodo (comics)" />
+      <node id="Jocasta (comics)" label="Jocasta (comics)" />
+      <node id="Songbird (comics)" label="Songbird (comics)" />
+      <node id="Spider-Woman (Jessica Drew)" label="Spider-Woman (Jessica Drew)" />
+      <node id="Stacy X" label="Stacy X" />
+      <node id="Death's Head" label="Death's Head" />
+      <node id="Doc Samson" label="Doc Samson" />
+      <node id="Ch'od" label="Ch'od" />
+      <node id="Sean and Chris" label="Sean and Chris" />
+      <node id="Wildcard (comics)" label="Wildcard (comics)" />
+      <node id="Cassandra Lang" label="Cassandra Lang" />
+      <node id="Wind Dancer" label="Wind Dancer" />
+      <node id="Titan (Imperial Guard)" label="Titan (Imperial Guard)" />
+      <node id="Carol Danvers" label="Carol Danvers" />
+      <node id="Protector (Marvel Comics)" label="Protector (Marvel Comics)" />
+      <node id="Witchfire (Marvel Comics)" label="Witchfire (Marvel Comics)" />
+      <node id="Vengeance (comics)" label="Vengeance (comics)" />
+      <node id="Dinah Soar" label="Dinah Soar" />
+      <node id="Bloodhawk" label="Bloodhawk" />
+      <node id="Vampire by Night" label="Vampire by Night" />
+      <node id="Wysper" label="Wysper" />
+      <node id="Blue Shield (comics)" label="Blue Shield (comics)" />
+      <node id="Starbrand (newuniversal)" label="Starbrand (newuniversal)" />
+      <node id="Revanche" label="Revanche" />
+      <node id="Dust (comics)" label="Dust (comics)" />
+      <node id="Random (comics)" label="Random (comics)" />
+      <node id="American Eagle (Marvel Comics)" label="American Eagle (Marvel Comics)" />
+      <node id="Cybermancer" label="Cybermancer" />
+      <node id="Stingray (comics)" label="Stingray (comics)" />
+      <node id="Free Spirit (comics)" label="Free Spirit (comics)" />
+      <node id="Perun (comics)" label="Perun (comics)" />
+      <node id="Equinox (comics)" label="Equinox (comics)" />
+      <node id="Gladiatrix (comics)" label="Gladiatrix (comics)" />
+      <node id="Amadeus Cho" label="Amadeus Cho" />
+      <node id="Elixir (comics)" label="Elixir (comics)" />
+      <node id="Beast (comics)" label="Beast (comics)" />
+      <node id="Shiver Man" label="Shiver Man" />
+      <node id="Drax the Destroyer" label="Drax the Destroyer" />
+      <node id="Velocidad (comics)" label="Velocidad (comics)" />
+      <node id="Dum Dum Dugan" label="Dum Dum Dugan" />
+      <node id="Ariel (comics)" label="Ariel (comics)" />
+      <node id="Buzz (comics)" label="Buzz (comics)" />
+      <node id="Jack Power" label="Jack Power" />
+      <node id="Gauntlet (comics)" label="Gauntlet (comics)" />
+      <node id="Chris Bradley" label="Chris Bradley" />
+      <node id="Dusk (comics)" label="Dusk (comics)" />
+      <node id="Amber Hunt (comics)" label="Amber Hunt (comics)" />
+      <node id="Hardball (comics)" label="Hardball (comics)" />
+      <node id="Vision (Timely Comics)" label="Vision (Timely Comics)" />
+      <node id="Captain (comics)" label="Captain (comics)" />
+      <node id="Bug (comics)" label="Bug (comics)" />
+      <node id="Freakshow (comics)" label="Freakshow (comics)" />
+      <node id="Hit-Monkey" label="Hit-Monkey" />
+      <node id="Micromax" label="Micromax" />
+      <node id="Thena" label="Thena" />
+      <node id="Heather Hudson (Exiles)" label="Heather Hudson (Exiles)" />
+      <node id="Beta Ray Bill" label="Beta Ray Bill" />
+      <node id="Ethan Edwards" label="Ethan Edwards" />
+      <node id="Pip the Troll" label="Pip the Troll" />
+      <node id="Ahura (comics)" label="Ahura (comics)" />
+      <node id="Agamotto" label="Agamotto" />
+      <node id="Thunderbird (Neal Shaara)" label="Thunderbird (Neal Shaara)" />
+      <node id="Medusa (comics)" label="Medusa (comics)" />
+      <node id="Shroud (comics)" label="Shroud (comics)" />
+      <node id="Kraven the Hunter (Alyosha Kravinoff)" label="Kraven the Hunter (Alyosha Kravinoff)" />
+      <node id="American Dream (comics)" label="American Dream (comics)" />
+      <node id="Nighthawk (Marvel Comics)" label="Nighthawk (Marvel Comics)" />
+      <node id="Nancy Lu" label="Nancy Lu" />
+      <node id="Rom (comics)" label="Rom (comics)" />
+      <node id="Mister Immortal" label="Mister Immortal" />
+      <node id="Doctor Druid" label="Doctor Druid" />
+      <node id="Vance Astrovik" label="Vance Astrovik" />
+      <node id="Wolf Cub (comics)" label="Wolf Cub (comics)" />
+      <node id="Sway (comics)" label="Sway (comics)" />
+      <node id="Jack Flag" label="Jack Flag" />
+      <node id="Yukio (comics)" label="Yukio (comics)" />
+      <node id="Elsa Bloodstone" label="Elsa Bloodstone" />
+      <node id="Power Man (Victor Alvarez)" label="Power Man (Victor Alvarez)" />
+      <node id="Abigail Brand" label="Abigail Brand" />
+      <node id="Onyxx" label="Onyxx" />
+      <node id="Ursa Major (comics)" label="Ursa Major (comics)" />
+      <node id="El Aguila" label="El Aguila" />
+      <node id="Morbius, the Living Vampire" label="Morbius, the Living Vampire" />
+      <node id="Spirit of '76 (Marvel Comics)" label="Spirit of '76 (Marvel Comics)" />
+      <node id="Wraith (Marvel Comics)" label="Wraith (Marvel Comics)" />
+      <node id="Flyer (New-Gen)" label="Flyer (New-Gen)" />
+      <node id="Delphyne Gorgon" label="Delphyne Gorgon" />
+      <node id="Dragon Lord (comics)" label="Dragon Lord (comics)" />
+      <node id="Domino (comics)" label="Domino (comics)" />
+      <node id="Phil Urich" label="Phil Urich" />
+      <node id="Phyla-Vell" label="Phyla-Vell" />
+      <node id="Doom 2099" label="Doom 2099" />
+      <node id="Thunderbird (comics)" label="Thunderbird (comics)" />
+      <node id="Blue Blade" label="Blue Blade" />
+      <node id="Black Widow (Claire Voyant)" label="Black Widow (Claire Voyant)" />
+      <node id="Callisto (comics)" label="Callisto (comics)" />
+      <node id="Ravage 2099" label="Ravage 2099" />
+      <node id="Franklin Richards" label="Franklin Richards" />
+      <node id="Raza Longknife" label="Raza Longknife" />
+      <node id="John the Skrull" label="John the Skrull" />
+      <node id="Spyke" label="Spyke" />
+      <node id="Nahrees" label="Nahrees" />
+      <node id="Tigra" label="Tigra" />
+      <node id="Nuke (Squadron Supreme)" label="Nuke (Squadron Supreme)" />
+      <node id="Cerise (comics)" label="Cerise (comics)" />
+      <node id="Groot" label="Groot" />
+      <node id="Paulie Provenzano" label="Paulie Provenzano" />
+      <node id="Blacklight (MC2)" label="Blacklight (MC2)" />
+      <node id="Eddie Brock" label="Eddie Brock" />
+      <node id="Puma (comics)" label="Puma (comics)" />
+      <node id="Silverclaw" label="Silverclaw" />
+      <node id="Wasabi-No-Ginger" label="Wasabi-No-Ginger" />
+      <node id="Darkhawk" label="Darkhawk" />
+      <node id="Triton (comics)" label="Triton (comics)" />
+      <node id="Iron Patriot" label="Iron Patriot" />
+      <node id="Julia Carpenter" label="Julia Carpenter" />
+      <node id="Blazing Skull" label="Blazing Skull" />
+      <node id="Ebon Samurai" label="Ebon Samurai" />
+      <node id="Phantom Eagle" label="Phantom Eagle" />
+      <node id="Captain America" label="Captain America" />
+      <node id="Spiral (comics)" label="Spiral (comics)" />
+      <node id="Zombie (comics)" label="Zombie (comics)" />
+      <node id="Lockjaw (comics)" label="Lockjaw (comics)" />
+      <node id="Man-Thing" label="Man-Thing" />
+      <node id="Smasher" label="Smasher" />
+      <node id="Primal (comics)" label="Primal (comics)" />
+      <node id="Zeitgeist (comics)" label="Zeitgeist (comics)" />
+      <node id="Ruby Summers" label="Ruby Summers" />
+      <node id="Nikki (comics)" label="Nikki (comics)" />
+      <node id="Flatman (comics)" label="Flatman (comics)" />
+      <node id="Loa (comics)" label="Loa (comics)" />
+      <node id="Nocturne (Talia Wagner)" label="Nocturne (Talia Wagner)" />
+      <node id="Cypher (Marvel Comics)" label="Cypher (Marvel Comics)" />
+      <node id="Silk (comics)" label="Silk (comics)" />
+      <node id="X-23" label="X-23" />
+      <node id="Mercury (Marvel Comics)" label="Mercury (Marvel Comics)" />
+      <node id="Diamondback (comics)" label="Diamondback (comics)" />
+      <node id="Slipstream (comics)" label="Slipstream (comics)" />
+      <node id="Noh-Varr" label="Noh-Varr" />
+      <node id="Invisible Woman" label="Invisible Woman" />
+      <node id="Firelord (comics)" label="Firelord (comics)" />
+      <node id="Valentina Allegra de Fontaine" label="Valentina Allegra de Fontaine" />
+      <node id="Rocket Racer" label="Rocket Racer" />
+      <node id="Gamora" label="Gamora" />
+      <node id="Red Lotus (comics)" label="Red Lotus (comics)" />
+      <node id="Rage (comics)" label="Rage (comics)" />
+      <node id="Daniel Drumm" label="Daniel Drumm" />
+      <node id="Star-Lord" label="Star-Lord" />
+      <node id="Bling! (comics)" label="Bling! (comics)" />
+      <node id="Starlight (Marvel Comics)" label="Starlight (Marvel Comics)" />
+      <node id="Diamond (comics)" label="Diamond (comics)" />
+      <node id="Jazinda" label="Jazinda" />
+      <node id="Rachel Summers" label="Rachel Summers" />
+      <node id="Lionheart (comics)" label="Lionheart (comics)" />
+      <node id="Daimon Hellstrom" label="Daimon Hellstrom" />
+      <node id="Pretty Persuasions" label="Pretty Persuasions" />
+      <node id="Mockingbird (Marvel Comics)" label="Mockingbird (Marvel Comics)" />
+      <node id="La Lunatica" label="La Lunatica" />
+      <node id="Magik (comics)" label="Magik (comics)" />
+      <node id="Lockheed (comics)" label="Lockheed (comics)" />
+      <node id="Wolfsbane (comics)" label="Wolfsbane (comics)" />
+      <node id="Humbug (comics)" label="Humbug (comics)" />
+      <node id="Coal Tiger" label="Coal Tiger" />
+      <node id="Robbie Baldwin" label="Robbie Baldwin" />
+      <node id="Rictor" label="Rictor" />
+      <node id="Monica Rambeau" label="Monica Rambeau" />
+      <node id="Crystal (comics)" label="Crystal (comics)" />
+      <node id="Skrullian Skymaster" label="Skrullian Skymaster" />
+      <node id="Iron Lad" label="Iron Lad" />
+      <node id="Patriot (comics)" label="Patriot (comics)" />
+      <node id="Silver Fox (comics)" label="Silver Fox (comics)" />
+      <node id="Black Widow (Natalia Romanova)" label="Black Widow (Natalia Romanova)" />
+      <node id="Daisy Johnson" label="Daisy Johnson" />
+      <node id="Pete Wisdom" label="Pete Wisdom" />
+      <node id="Coldblood" label="Coldblood" />
+      <node id="Gateway (comics)" label="Gateway (comics)" />
+      <node id="Hrimhari" label="Hrimhari" />
+      <node id="Ogre (Marvel Comics)" label="Ogre (Marvel Comics)" />
+      <node id="Magma (comics)" label="Magma (comics)" />
+      <node id="Jack of Hearts" label="Jack of Hearts" />
+      <node id="Topaz (Marvel Comics)" label="Topaz (Marvel Comics)" />
+      <node id="Archer (Marvel Comics)" label="Archer (Marvel Comics)" />
+      <node id="Red Nine" label="Red Nine" />
+      <node id="Leech (comics)" label="Leech (comics)" />
+      <node id="David North (comics)" label="David North (comics)" />
+      <node id="Force (comics)" label="Force (comics)" />
+      <node id="Peregrine (comics)" label="Peregrine (comics)" />
+      <node id="Talon (Marvel Comics)" label="Talon (Marvel Comics)" />
+      <node id="Jean Grey" label="Jean Grey" />
+      <node id="Junta (comics)" label="Junta (comics)" />
+      <node id="Wild Thing (comics)" label="Wild Thing (comics)" />
+      <node id="Charcoal (comics)" label="Charcoal (comics)" />
+      <node id="Phantom Rider" label="Phantom Rider" />
+      <node id="Donyell Taylor" label="Donyell Taylor" />
+      <node id="Digitek (comics)" label="Digitek (comics)" />
+      <node id="Sandman (Marvel Comics)" label="Sandman (Marvel Comics)" />
+      <node id="Korvus" label="Korvus" />
+      <node id="Nova (Frankie Raye)" label="Nova (Frankie Raye)" />
+      <node id="Preview (comics)" label="Preview (comics)" />
+      <node id="Namora" label="Namora" />
+      <node id="Constrictor (comics)" label="Constrictor (comics)" />
+      <node id="Iron Man 2020" label="Iron Man 2020" />
+      <node id="Wolverine (character)" label="Wolverine (character)" />
+      <node id="Timeslip (comics)" label="Timeslip (comics)" />
+      <node id="Breeze Barton" label="Breeze Barton" />
+      <node id="List of Marvel Comics characters: C" label="List of Marvel Comics characters: C" />
+      <node id="Merlyn (Marvel Comics)" label="Merlyn (Marvel Comics)" />
+      <node id="Nightmask" label="Nightmask" />
+      <node id="Black Rider (comics)" label="Black Rider (comics)" />
+      <node id="Echo (Marvel Comics)" label="Echo (Marvel Comics)" />
+      <node id="Mahr Vehl" label="Mahr Vehl" />
+      <node id="Namorita" label="Namorita" />
+      <node id="Marrow (comics)" label="Marrow (comics)" />
+      <node id="Thea (New-Gen)" label="Thea (New-Gen)" />
+      <node id="White Tiger (Angela Del Toro)" label="White Tiger (Angela Del Toro)" />
+      <node id="Warren Worthington III" label="Warren Worthington III" />
+      <node id="Volstagg" label="Volstagg" />
+      <node id="Red Sonja" label="Red Sonja" />
+      <node id="Fin (comics)" label="Fin (comics)" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Silver Sable" target="Captain America" />
+      <edge id="1" source="Forge (comics)" target="Thor (Marvel Comics)" />
+      <edge id="2" source="Spider-Man 2099" target="Iron Man" />
+      <edge id="3" source="Captain Ultra" target="Thor (Marvel Comics)" />
+      <edge id="4" source="Siryn" target="Thor (Marvel Comics)" />
+      <edge id="5" source="White Tiger (Kasper Cole)" target="Captain America" />
+      <edge id="6" source="Sharon Friedlander" target="Spider-Man" />
+      <edge id="7" source="Sharon Friedlander" target="Thor (Marvel Comics)" />
+      <edge id="8" source="Machine Man" target="Spider-Man" />
+      <edge id="9" source="Machine Man" target="Thor (Marvel Comics)" />
+      <edge id="10" source="Thor Girl" target="Iron Man" />
+      <edge id="11" source="Valkyrie (Marvel Comics)" target="Thor (Marvel Comics)" />
+      <edge id="12" source="Dazzler" target="Spider-Man" />
+      <edge id="13" source="Nova (Sam Alexander)" target="Thor (Marvel Comics)" />
+      <edge id="14" source="Sasquatch (comics)" target="Iron Man" />
+      <edge id="15" source="Ultimate Wolverine" target="Spider-Man" />
+      <edge id="16" source="Moon Knight" target="Spider-Man" />
+      <edge id="17" source="Hulk 2099" target="Thor (Marvel Comics)" />
+      <edge id="18" source="Thundra" target="Spider-Man" />
+      <edge id="19" source="Freedom Ring" target="Thor (Marvel Comics)" />
+      <edge id="20" source="Freedom Ring" target="Captain America" />
+      <edge id="21" source="Wasp (comics)" target="Captain America" />
+      <edge id="22" source="Living Brain" target="Iron Man" />
+      <edge id="23" source="Ghost Rider (Danny Ketch)" target="Spider-Man" />
+      <edge id="24" source="Ghost Rider (Danny Ketch)" target="Thor (Marvel Comics)" />
+      <edge id="25" source="Angela (comics)" target="Thor (Marvel Comics)" />
+      <edge id="26" source="Athena (Marvel Comics)" target="Iron Man" />
+      <edge id="27" source="Anya Corazon" target="Spider-Man" />
+      <edge id="28" source="Silhouette (comics)" target="Thor (Marvel Comics)" />
+      <edge id="29" source="Abner Jenkins" target="Thor (Marvel Comics)" />
+      <edge id="30" source="Sharon Ventura" target="Iron Man" />
+      <edge id="31" source="Danielle Moonstar" target="Iron Man" />
+      <edge id="32" source="Gremlin (comics)" target="Iron Man" />
+      <edge id="33" source="Rockslide (comics)" target="Spider-Man" />
+      <edge id="34" source="Juggernaut (comics)" target="Thor (Marvel Comics)" />
+      <edge id="35" source="John Carik" target="Captain America" />
+      <edge id="36" source="Spider-Woman (Mattie Franklin)" target="Spider-Man" />
+      <edge id="37" source="Spider-Woman (Mattie Franklin)" target="Thor (Marvel Comics)" />
+      <edge id="38" source="Yellowjacket (Marvel Comics)" target="Iron Man" />
+      <edge id="39" source="Century (comics)" target="Spider-Man" />
+      <edge id="40" source="Century (comics)" target="Thor (Marvel Comics)" />
+      <edge id="41" source="Sersi" target="Thor (Marvel Comics)" />
+      <edge id="42" source="Spider-Man (Miles Morales)" target="Iron Man" />
+      <edge id="43" source="Spider-Man (Miles Morales)" target="Spider-Man" />
+      <edge id="44" source="M (comics)" target="Spider-Man" />
+      <edge id="45" source="M (comics)" target="Thor (Marvel Comics)" />
+      <edge id="46" source="Prime (comics)" target="Spider-Man" />
+      <edge id="47" source="Ben Reilly" target="Iron Man" />
+      <edge id="48" source="Ben Reilly" target="Spider-Man" />
+      <edge id="49" source="Thunderstrike (Kevin Masterson)" target="Spider-Man" />
+      <edge id="50" source="Fin Fang Foom" target="Spider-Man" />
+      <edge id="51" source="Fin Fang Foom" target="Thor (Marvel Comics)" />
+      <edge id="52" source="Delroy Garrett" target="Spider-Man" />
+      <edge id="53" source="Delroy Garrett" target="Thor (Marvel Comics)" />
+      <edge id="54" source="Shatterstar" target="Spider-Man" />
+      <edge id="55" source="Bucky" target="Iron Man" />
+      <edge id="56" source="Armor (comics)" target="Spider-Man" />
+      <edge id="57" source="Armor (comics)" target="Thor (Marvel Comics)" />
+      <edge id="58" source="Mister Fantastic" target="Spider-Man" />
+      <edge id="59" source="Grand Director" target="Iron Man" />
+      <edge id="60" source="Arkon" target="Iron Man" />
+      <edge id="61" source="Angel Dust (comics)" target="Spider-Man" />
+      <edge id="62" source="Angel Dust (comics)" target="Thor (Marvel Comics)" />
+      <edge id="63" source="Moonstone (comics)" target="Spider-Man" />
+      <edge id="64" source="Moonstone (comics)" target="Thor (Marvel Comics)" />
+      <edge id="65" source="Comet Man" target="Spider-Man" />
+      <edge id="66" source="Comet Man" target="Thor (Marvel Comics)" />
+      <edge id="67" source="Swordsman (comics)" target="Spider-Man" />
+      <edge id="68" source="She-Hulk" target="Spider-Man" />
+      <edge id="69" source="Falcon (comics)" target="Spider-Man" />
+      <edge id="70" source="Elektro (comics)" target="Thor (Marvel Comics)" />
+      <edge id="71" source="Thor (Marvel Comics)" target="Human Torch (android)" />
+      <edge id="72" source="Thor (Marvel Comics)" target="Xavin" />
+      <edge id="73" source="Thor (Marvel Comics)" target="Namora" />
+      <edge id="74" source="Thor (Marvel Comics)" target="Julia Carpenter" />
+      <edge id="75" source="Thor (Marvel Comics)" target="Beast (comics)" />
+      <edge id="76" source="Thor (Marvel Comics)" target="Forgotten One (comics)" />
+      <edge id="77" source="Thor (Marvel Comics)" target="Carol Danvers" />
+      <edge id="78" source="Thor (Marvel Comics)" target="Sleepwalker (comics)" />
+      <edge id="79" source="Thor (Marvel Comics)" target="Blazing Skull" />
+      <edge id="80" source="Thor (Marvel Comics)" target="Captain Universe" />
+      <edge id="81" source="Thor (Marvel Comics)" target="Skrullian Skymaster" />
+      <edge id="82" source="Thor (Marvel Comics)" target="Honey Lemon" />
+      <edge id="83" source="Thor (Marvel Comics)" target="It! The Living Colossus" />
+      <edge id="84" source="Thor (Marvel Comics)" target="Jack of Hearts" />
+      <edge id="85" source="Thor (Marvel Comics)" target="Battlestar (comics)" />
+      <edge id="86" source="Thor (Marvel Comics)" target="Bishop (comics)" />
+      <edge id="87" source="Thor (Marvel Comics)" target="Ikaris" />
+      <edge id="88" source="Thor (Marvel Comics)" target="Namorita" />
+      <edge id="89" source="Thor (Marvel Comics)" target="Drax the Destroyer" />
+      <edge id="90" source="Thor (Marvel Comics)" target="Siege (John Kelly)" />
+      <edge id="91" source="Thor (Marvel Comics)" target="Cypher (Marvel Comics)" />
+      <edge id="92" source="Thor (Marvel Comics)" target="Vision (Marvel Comics)" />
+      <edge id="93" source="Thor (Marvel Comics)" target="Wiccan (comics)" />
+      <edge id="94" source="Thor (Marvel Comics)" target="Black Widow (Claire Voyant)" />
+      <edge id="95" source="Thor (Marvel Comics)" target="Alex Power" />
+      <edge id="96" source="Thor (Marvel Comics)" target="Thena" />
+      <edge id="97" source="Thor (Marvel Comics)" target="Smasher" />
+      <edge id="98" source="Thor (Marvel Comics)" target="Iron Patriot" />
+      <edge id="99" source="Thor (Marvel Comics)" target="Sandman (Marvel Comics)" />
+      <edge id="100" source="Thor (Marvel Comics)" target="Misty Knight" />
+      <edge id="101" source="Thor (Marvel Comics)" target="Tom Corsi" />
+      <edge id="102" source="Thor (Marvel Comics)" target="Beta Ray Bill" />
+      <edge id="103" source="Thor (Marvel Comics)" target="Wild Thing (comics)" />
+      <edge id="104" source="Thor (Marvel Comics)" target="Luke Cage" />
+      <edge id="105" source="Thor (Marvel Comics)" target="Humbug (comics)" />
+      <edge id="106" source="Thor (Marvel Comics)" target="Iron Fist (comics)" />
+      <edge id="107" source="Thor (Marvel Comics)" target="Savage Steel" />
+      <edge id="108" source="Thor (Marvel Comics)" target="Starfox (comics)" />
+      <edge id="109" source="Thor (Marvel Comics)" target="Fin (comics)" />
+      <edge id="110" source="Hannibal King" target="Spider-Man" />
+      <edge id="111" source="Hulk (comics)" target="Hepzibah (comics)" />
+      <edge id="112" source="Hulk (comics)" target="Callisto (comics)" />
+      <edge id="113" source="Forgotten One (comics)" target="Spider-Man" />
+      <edge id="114" source="Jubilee (comics)" target="Spider-Man" />
+      <edge id="115" source="Ultimate Iron Man (character)" target="Iron Man" />
+      <edge id="116" source="Ultimate Iron Man (character)" target="Spider-Man" />
+      <edge id="117" source="Toxin (comics)" target="Iron Man" />
+      <edge id="118" source="Nova (Richard Rider)" target="Iron Man" />
+      <edge id="119" source="Iron Man" target="Monica Rambeau" />
+      <edge id="120" source="Iron Man" target="Junkpile" />
+      <edge id="121" source="Iron Man" target="Spider-Girl" />
+      <edge id="122" source="Iron Man" target="Spider-Woman (Jessica Drew)" />
+      <edge id="123" source="Iron Man" target="Doom 2099" />
+      <edge id="124" source="Iron Man" target="Silk (comics)" />
+      <edge id="125" source="Iron Man" target="X-23" />
+      <edge id="126" source="Iron Man" target="Black Cat (comics)" />
+      <edge id="127" source="Iron Man" target="Blade (comics)" />
+      <edge id="128" source="Iron Man" target="Venom (comics)" />
+      <edge id="129" source="Iron Man" target="Jean Grey" />
+      <edge id="130" source="Iron Man" target="Collective Man" />
+      <edge id="131" source="Iron Man" target="Sabra (comics)" />
+      <edge id="132" source="Iron Man" target="Puma (comics)" />
+      <edge id="133" source="Iron Man" target="Stingray (comics)" />
+      <edge id="134" source="Ezekiel (comics)" target="Spider-Man" />
+      <edge id="135" source="Thunderbolt Ross" target="Spider-Man" />
+      <edge id="136" source="Namor" target="Spider-Man" />
+      <edge id="137" source="Spider-Man" target="Human Torch (android)" />
+      <edge id="138" source="Spider-Man" target="Namora" />
+      <edge id="139" source="Spider-Man" target="Julia Carpenter" />
+      <edge id="140" source="Spider-Man" target="Man-Thing" />
+      <edge id="141" source="Spider-Man" target="Iron Lad" />
+      <edge id="142" source="Spider-Man" target="Blazing Skull" />
+      <edge id="143" source="Spider-Man" target="Silk (comics)" />
+      <edge id="144" source="Spider-Man" target="It! The Living Colossus" />
+      <edge id="145" source="Spider-Man" target="Ikaris" />
+      <edge id="146" source="Spider-Man" target="Texas Twister" />
+      <edge id="147" source="Spider-Man" target="Siege (John Kelly)" />
+      <edge id="148" source="Spider-Man" target="Karima Shapandar" />
+      <edge id="149" source="Spider-Man" target="Werewolf by Night" />
+      <edge id="150" source="Spider-Man" target="Nightmask" />
+      <edge id="151" source="Spider-Man" target="Iron Patriot" />
+      <edge id="152" source="Spider-Man" target="Drax the Destroyer" />
+      <edge id="153" source="Spider-Man" target="Thena" />
+      <edge id="154" source="Spider-Man" target="Eddie Brock" />
+      <edge id="155" source="Spider-Man" target="Misty Knight" />
+      <edge id="156" source="Spider-Man" target="Alpha (Marvel Comics)" />
+      <edge id="157" source="Spider-Man" target="Cypher (Marvel Comics)" />
+      <edge id="158" source="Spider-Man" target="Tom Corsi" />
+      <edge id="159" source="Spider-Man" target="Spider-Girl" />
+      <edge id="160" source="Spider-Man" target="Humbug (comics)" />
+      <edge id="161" source="Spider-Man" target="Sleepwalker (comics)" />
+      <edge id="162" source="American Dream (comics)" target="Captain America" />
+      <edge id="163" source="Domino (comics)" target="Captain America" />
+    </edges>
+  </graph>
+</gexf>
